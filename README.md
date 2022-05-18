@@ -1,6 +1,6 @@
 - # Sobre mim
 - ## Editando o perfil
-- 👋 Hi, I’m @maraial
+- 👋 Hi, I’m **@maraial**
 - 📫 How to reach me marianarodriguescorreia2@gmail.com
 
 <!---
